@@ -9,7 +9,7 @@
 }
 
 .selected {
-    background-color: green;
+    background-color: #0000ff;
     font-weight: bold;
     color: white;
 }
