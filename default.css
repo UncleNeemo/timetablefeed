@@ -1,0 +1,31 @@
+*{
+    margin-top: 15px;
+}
+
+table {
+    margin-top: 30px;
+    border-collapse: collapse;
+}
+th  {
+    width: 500px;
+}
+#skb {
+    background-color: skyblue;
+}
+caption  {
+    background-color: yellow;
+    color: black;
+}
+#dGreen{
+    background-color: seagreen;
+    color: black;
+}
+.dCream{
+    background-color: cornsilk;
+    color: black;
+}
+.dSalmon{
+    background-color: #F9EBEA;
+    color: black;
+
+}
